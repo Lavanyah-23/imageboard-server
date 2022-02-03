@@ -1,0 +1,20 @@
+{
+  "development": {
+    "url": "postgres://dhiueaqp:32PsA4ZnX0xAUz3N34uQEXXgqdkFv_-2@castor.db.elephantsql.com/dhiueaqp",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
